@@ -22,7 +22,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/alejandro_angar" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="alejandro_angar" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/150396 jhonathan-alejandro" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="150396 jhonathan-alejandro" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/14953581" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="14953581" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
